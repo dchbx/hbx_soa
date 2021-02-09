@@ -30,3 +30,4 @@ jobs:
         run: |
           cp config/exchange.yml.example config/exchange.yml
           bundle exec rspec
+
